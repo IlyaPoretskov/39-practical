@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MovingCircle",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MovingCircle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MovingCircle-Debug-ae600afb4f6ece931bf7.json",
+					"name" : "MovingCircle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MovingCircle_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MovingCircle_autogen-Debug-6c0aee0464ab4aa25886.json",
+					"name" : "MovingCircle_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Skb30-40/39-practical/build-MovingCircle-Desktop_Qt_5_12_12_MinGW_64_bit-Debug",
+		"source" : "C:/Skb30-40/39-practical/MovingCircle"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

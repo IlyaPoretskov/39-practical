@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "C:/Skb30-40/39-practical/build-MovingCircle-Desktop_Qt_5_12_12_MinGW_64_bit-MinSizeRel/MovingCircle_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Skb30-40/39-practical/build-MovingCircle-Desktop_Qt_5_12_12_MinGW_64_bit-MinSizeRel",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Skb30-40/39-practical/build-MovingCircle-Desktop_Qt_5_12_12_MinGW_64_bit-MinSizeRel",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Skb30-40/39-practical/MovingCircle",
+	"CMAKE_SOURCE_DIR" : "C:/Skb30-40/39-practical/MovingCircle",
+	"INCLUDE_DIR" : "C:/Skb30-40/39-practical/build-MovingCircle-Desktop_Qt_5_12_12_MinGW_64_bit-MinSizeRel/MovingCircle_autogen/include",
+	"INPUTS" : [ "C:/Skb30-40/39-practical/MovingCircle/main.qml" ],
+	"LOCK_FILE" : "C:/Skb30-40/39-practical/build-MovingCircle-Desktop_Qt_5_12_12_MinGW_64_bit-MinSizeRel/CMakeFiles/MovingCircle_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/Qt5.12.12/5.12.12/mingw73_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Skb30-40/39-practical/build-MovingCircle-Desktop_Qt_5_12_12_MinGW_64_bit-MinSizeRel/CMakeFiles/MovingCircle_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Skb30-40/39-practical/MovingCircle/qml.qrc",
+	"VERBOSITY" : 0
+}
